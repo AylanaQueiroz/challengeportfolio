@@ -1,0 +1,97 @@
+header {
+
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 500;
+
+
+}
+
+.container {
+
+    font-family: "Raleway", sans-serif;
+}
+
+.menu_header {
+
+    display: flex;
+    list-style-type: none;
+    margin-right: 40px;
+
+}
+
+
+.presentation_title {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.presentation_write {
+
+}
+
+h1 {
+
+    font-size: 52px;
+    font-weight: 700;
+
+}
+
+h2 {
+
+    font-size: 32px;
+    font-weight: 700;
+    
+}
+
+h3 {
+
+    font-size: 22px;
+    font-weight: 400;
+
+}
+
+li {
+
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 20px;
+
+}
+
+a {
+
+    text-decoration: none;
+    margin-right: 10px;
+
+}
+
+.photo_perfil {
+
+    width: 368px;
+    height: 368px;
+    border-radius: 200px;
+
+}
+
+p {
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.sobre {
+
+    background-color: #EAF2FD;
+
+}
+
+.skills {
+
+    text-align: center;
+    
+}
