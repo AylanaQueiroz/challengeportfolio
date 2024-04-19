@@ -1,5 +1,3 @@
-
-
 header {
 
     display: flex;
@@ -16,7 +14,7 @@ header {
     display: flex;
     list-style-type: none;
 
-} 
+}
 
 
 .container {
@@ -102,7 +100,7 @@ p {
 .skills {
 
     text-align: center;
-   
+
 
 }
 
@@ -112,6 +110,15 @@ p {
 
 }
 
+.crossfit_img {
+    width: 80px;
+}
+
+.viagem_img {
+    width: 80px;
+    margin-left: 70px;
+}
+
 .academics {
 
     text-align: center;
@@ -119,10 +126,27 @@ p {
 
 }
 
+.logo_estacio {
+    width: 380px;
+}
+
 .professional {
 
     display: flex;
 }
+
+
+.lista_atividades {
+    display: flex;
+}
+
+
+.atividades_photo {
+
+    width: 50%
+}
+
+
 
 h4 {
 
@@ -174,6 +198,18 @@ textarea {
     color: white;
     margin-bottom: 0px;
 
+}
+
+#reuniao {
+    width: 165px;
+
+}
+
+.btn_agendar {
+    background-color: #2A7AE4;
+    color: white;
+    width: 110px;
+    height: 40px;
 }
 
 footer {
